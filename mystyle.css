@@ -1,0 +1,70 @@
+body {
+    background-image: url('./resources/background-body.jpeg'); /* original picture from https://www.google.com/imgres?q=cat%20bg%20.jpg&imgurl=https%3A%2F%2Fe0.pxfuel.com%2Fwallpapers%2F95%2F972%2Fdesktop-wallpaper-simons-cat-comics-cats-simple-background-drawing-monochrome-resolution-thumbnail.jpg&imgrefurl=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Ddraw%2Ba%2Bcat%2Band%26page%3D9&docid=uADVxUyWmMa4lM&tbnid=_T5gjYgN3HPIzM&vet=12ahUKEwipnfbE7LKPAxWiRmwGHb1zJioQM3oECHAQAA..i&w=350&h=219&hcb=2&itg=1&ved=2ahUKEwipnfbE7LKPAxWiRmwGHb1zJioQM3oECHAQAA */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    opacity: 80%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('./resources/nyan-cat-1920-x-1080-background-1ldrgvod52e6vi0m.jpg'); /* original picture from https://wallpapers.com/nyan-cat-background#google_vignette */
+    background-size: 30em;
+    background-position: cover;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+}
+
+menu ul {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 10px;
+}
+
+menu ul li {
+    margin: 0 15px;
+}
+
+menu ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+#home, #about, #products, #contact {
+    padding: 20px;
+    text-align: center;
+}
+
+table{
+    width: 90%;
+    border-collapse: collapse;
+}
+
+.product, .contact{
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.product img {
+    width: 420px;
+    height: 320px;
+}
+
+span {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15pt;
+    color: green;
+}
+
+footer {
+    text-align: center;
+    background-color: #0a1b70;
+    color: white;
+    padding: 1px; ;
+}

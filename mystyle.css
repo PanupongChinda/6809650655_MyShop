@@ -34,7 +34,7 @@ nav ul li a {
     color: rgb(0, 0, 0);
 }
 
-#home, #about, #products, #contact, #petfood {
+#home, #about, #products, #contact, #petfood ,#pettoys {
     
     padding: 20px;
     text-align: center;
@@ -75,7 +75,7 @@ footer {
     padding: 1px; ;
 }
 
-/* อ้างอิง
+/* อ้างอิงจาก
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stephendunford.com%2F&psig=AOvVaw296orCHIw__gsLROPrOX5T&ust=1758249048049000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCOiop5Wk4Y8DFQAAAAAdAAAAABAL
 https://img.freepik.com/premium-vector/white-colour-ui-background-with-circle-pattern_665888-231.jpg
 */
